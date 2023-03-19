@@ -19,4 +19,3 @@ php ./updater.php
 ## 👦 Authors
 
 - [@RedginaldGodeau](https://github.com/RedginaldGodeau)
-- [@PhYdrogen](https://github.com/PhYdrogen)
